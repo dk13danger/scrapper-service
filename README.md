@@ -124,7 +124,7 @@ For local testing run in **other terminal**:
 bash launch.sh test
 
 # send duplicate requests for parsing
-bash launch.sh test-heavy
+bash launch.sh test-multi
 ```
 
 ### If you want develop
